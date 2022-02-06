@@ -12,5 +12,9 @@ Classes CategoryPage,FilterByListingDate,HomePage,ProductDetailPage,ProductPage,
 <li>JUnit 5.8.2</li>
 <li>BoniGarcia WebDriverManager 4.4.3</li>
 </ul><hr>
-<b>Project Dependencies</b><br>
-You can access the POM (Project Object Model) configurations of the technologies used in our project on https://mvnrepository.com/ <hr>
+<b>Build</b><br>
+mvn clean install<hr>
+<b>Test</b><br>
+mvn surefire:test -Dtest=TestSearchOnHomePage#searchOnHomePage<hr>
+<b>Allure Report</b><br>
+allure serve allure-results<hr>
