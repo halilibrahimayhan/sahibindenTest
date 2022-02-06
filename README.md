@@ -7,7 +7,7 @@ Classes CategoryPage,FilterByListingDate,HomePage,ProductDetailPage,ProductPage,
 <hr>
 <b>Technologies used in the project:</b><br>
 <ul>
-<li>Apache Maven 2.4 Install,Apache Maven 2.7 for Deployment</li>
+<li>Apache Maven 3.6+</li>
 <li>SeleniumHQ 3.141.59</li>
 <li>JUnit 5.8.2</li>
 <li>BoniGarcia WebDriverManager 4.4.3</li>
