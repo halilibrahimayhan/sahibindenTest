@@ -23,7 +23,6 @@ public class TestSearchOnHomePage extends BaseTest {
     ProductPage productsPage;
     ProductDetailPage productDetailPage;
 
-
     @Story("bebek arabası is typed into the search field on sahibinden.com homepage and the first bebek arabası product is clicked.")
     @Description("Products are listed on the product search page with the name of the product written in the search bar. Then click on the product in the first row.")
     @Test
