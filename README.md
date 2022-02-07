@@ -11,9 +11,15 @@ There are 3 packages in main. Business packages contains concretes and pages pac
 <li>JUnit 5.8.2</li>
 <li>BoniGarcia WebDriverManager 4.4.3</li>
 </ul><hr>
+<b>Docker Install</b><br>
+Docker Desktop helps you build, share, and run containers easily on Mac and Windows as you do on Linux.For install Docker Engine https://docs.docker.com/engine/install/<br>
+<hr>
+<b>Docker Compose</b><br>
+To Run Docker Compose docker-compose up -d<hr>
 <b>Build</b><br>
 mvn clean install<hr>
 <b>Test</b><br>
 mvn surefire:test -Dtest=TestSearchOnHomePage#searchOnHomePage<hr>
 <b>Allure Report</b><br>
-allure serve allure-results<hr> 
+allure serve allure-results<br>
+When you run the above code, the reports will be generated in the "C:\Users\{Your User Name}\AppData\Local\Temp\{GUID}\allure-report" directory<hr>
