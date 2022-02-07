@@ -1,9 +1,0 @@
-business\concretes\SearchBox.class
-business\pages\ProductPage.class
-core\PageCommon.class
-utilities\result\Log.class
-business\pages\CategoryPage.class
-business\pages\ProductDetailPage.class
-core\AbstractCommon.class
-business\concretes\FilterByListingDate.class
-business\pages\HomePage.class
