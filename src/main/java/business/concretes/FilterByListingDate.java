@@ -16,7 +16,7 @@ public class FilterByListingDate extends PageCommon {
 
     public void filterByLastDay(){
         click(filterByListingDateLocator);
-       /*click(submitButtonLocator);*/
+       click(submitButtonLocator);
     }
 
 }
