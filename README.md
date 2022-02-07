@@ -14,6 +14,9 @@ There are 3 packages in main. Business packages contains concretes and pages pac
 <b>Docker Install</b><br>
 For install Docker Engine https://docs.docker.com/engine/install/<br>
 <hr>
+<b>Get Starter</b><br>
+git clone git@github.com:halilibrahimayhan/SahibindenTest.git<br>
+mvn compile<br><hr>
 <b>Docker Compose</b><br>
 To Run Docker Compose docker-compose up -d<hr>
 <b>Build</b><br>
