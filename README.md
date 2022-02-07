@@ -22,4 +22,4 @@ mvn clean install<hr>
 mvn surefire:test -Dtest=TestSearchOnHomePage#searchOnHomePage<hr>
 <b>Allure Report</b><br>
 allure serve allure-results<br>
-When you run the above code, the reports will be generated in the "C:\Users\{Your User Name}\AppData\Local\Temp\{GUID}\allure-report directory<hr>
+When you run the above code, the reports will be generated in the "C:\Users\{Your User Name}\AppData\Local\Temp\{GUID}\allure-report" directory<hr>
