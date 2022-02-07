@@ -17,13 +17,10 @@ public abstract class AbstractCommon {
     {
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver();
-
         String url="http://localhost:4444/wd/hub";
-
         DesiredCapabilities desiredCapabilities=new DesiredCapabilities();
         desiredCapabilities.setBrowserName("chrome");
         desiredCapabilities.setPlatform(Platform.WINDOWS);
-
         ChromeOptions options = new ChromeOptions();
         options.setHeadless(true);
         options.merge(desiredCapabilities);
