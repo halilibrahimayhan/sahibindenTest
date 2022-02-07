@@ -12,7 +12,7 @@ There are 3 packages in main. Business packages contains concretes and pages pac
 <li>BoniGarcia WebDriverManager 4.4.3</li>
 </ul><hr>
 <b>Docker Install</b><br>
-Docker Desktop helps you build, share, and run containers easily on Mac and Windows as you do on Linux.For install Docker Engine https://docs.docker.com/engine/install/<br>
+For install Docker Engine https://docs.docker.com/engine/install/<br>
 <hr>
 <b>Docker Compose</b><br>
 To Run Docker Compose docker-compose up -d<hr>
