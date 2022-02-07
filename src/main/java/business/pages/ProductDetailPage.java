@@ -1,9 +1,9 @@
-package business.concretes;
+package business.pages;
 
-import business.abstracts.BasePage;
+import core.PageCommon;
 import org.openqa.selenium.WebDriver;
 
-public class ProductDetailPage extends BasePage {
+public class ProductDetailPage extends PageCommon {
 
     public ProductDetailPage(WebDriver driver)
     {

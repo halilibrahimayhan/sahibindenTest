@@ -1,6 +1,6 @@
-import business.concretes.CategoryPage;
-import business.concretes.ProductDetailPage;
-import business.concretes.ProductPage;
+import business.pages.CategoryPage;
+import business.pages.ProductDetailPage;
+import business.pages.ProductPage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -16,7 +16,6 @@ public class TestSearchOnCategory extends BaseTest {
         driver.get("https://www.sahibinden.com/kiralik-daire");
         categoryPage=new CategoryPage(driver);
         productsPage =new ProductPage(driver);
-
 
         categoryPage.filterByListingDate().filterByLastDay();
         Assertions.assertTrue(productsPage.isOnProductPage(),"Not on products page");

@@ -1,3 +1,23 @@
 2022-02-06 20:56:59,031 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
 2022-02-06 20:56:59,187 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
 2022-02-06 20:57:48,332 INFO  [Log] Sahibindencom Header searchText Test Passed 
+2022-02-06 22:57:42,692 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 22:57:42,956 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:03:49,824 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:03:50,023 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:09:18,764 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:09:18,966 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:13:14,123 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:13:14,325 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:17:18,997 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:17:19,341 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:19:25,582 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:19:25,739 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:24:30,199 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:24:30,383 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:25:40,768 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-06 23:25:40,934 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-06 23:26:28,651 INFO  [Log] Sahibindencom Header searchText Test Passed 
+2022-02-07 01:03:06,665 INFO  [WebDriverManager] Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98) 
+2022-02-07 01:03:06,820 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\HIA\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe 
+2022-02-07 01:04:06,824 INFO  [Log] Sahibindencom Header searchText Test Passed 

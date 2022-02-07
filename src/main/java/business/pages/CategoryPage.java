@@ -1,9 +1,10 @@
-package business.concretes;
+package business.pages;
 
-import business.abstracts.BasePage;
+import business.concretes.FilterByListingDate;
+import core.PageCommon;
 import org.openqa.selenium.WebDriver;
 
-public class CategoryPage extends BasePage {
+public class CategoryPage extends PageCommon {
 
     FilterByListingDate filterByListingDate;
 

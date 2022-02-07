@@ -1,13 +1,13 @@
-package business.concretes;
+package business.pages;
 
-import business.abstracts.BasePage;
+import core.PageCommon;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-public class ProductPage extends BasePage {
+public class ProductPage extends PageCommon {
 
     By filterMegaPhotoLocator= By.id("searchResultLeft-hasMegaPhoto");
     By productTitleLocator=By.cssSelector("a.classifiedTitle");

@@ -1,9 +1,10 @@
-package business.concretes;
+package business.pages;
 
-import business.abstracts.BasePage;
+import business.concretes.SearchBox;
+import core.PageCommon;
 import org.openqa.selenium.WebDriver;
 
-public class HomePage extends BasePage {
+public class HomePage extends PageCommon {
 
     SearchBox searchBox;
 
