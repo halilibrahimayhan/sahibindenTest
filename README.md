@@ -1,4 +1,4 @@
-# Sahibindencom Test Case for Search Scenario
+# Sahibindencom Test Case for Search Scenario  
 <hr>
 It contains test search scenarios of sahibinden.com homepage and category pages.
 Our application was created with Intellij Idea IDE and java-maven infrastructure.<br>
