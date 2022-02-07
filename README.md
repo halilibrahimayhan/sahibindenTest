@@ -17,9 +17,9 @@ For install Docker Engine https://docs.docker.com/engine/install/<br>
 <b>Docker Compose</b><br>
 To Run Docker Compose docker-compose up -d<hr>
 <b>Build</b><br>
-mvn clean install<hr>
+mvn clean install -DskipTests<hr>
 <b>Test</b><br>
 mvn surefire:test -Dtest=TestSearchOnHomePage#searchOnHomePage<hr>
 <b>Allure Report</b><br>
 allure serve allure-results<br>
-When you run the above code, the reports will be generated in the "C:\Users\{Your User Name}\AppData\Local\Temp\{GUID}\allure-report" directory<hr>
+When you run the above code, the reports will be generated in the "{localtemp}\{GUID}\allure-report" directory<hr>
