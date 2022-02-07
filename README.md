@@ -16,4 +16,5 @@ mvn clean install<hr>
 <b>Test</b><br>
 mvn surefire:test -Dtest=TestSearchOnHomePage#searchOnHomePage<hr>
 <b>Allure Report</b><br>
-allure serve allure-results<hr> 
+allure serve allure-results<br>
+allure generate allure-results --clean -o allure-report <hr>
